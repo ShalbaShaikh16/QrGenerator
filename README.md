@@ -15,6 +15,11 @@ You can view the live demo of the project by clicking the link below:
 
 [Live Demo](https://your-live-demo-link.com)  <!-- Replace with your actual live demo URL -->
 
+## Screenshot
+
+![QR Generator App Screenshot](https://github.com/ShalbaShaikh16/QrGenerator/blob/main/gen.png?raw=true)
+
+
 ### Demo GIF
 
 ![QR Code Generator Demo](https://your-gif-link.com/demo.gif)  <!-- Replace with actual gif link -->
