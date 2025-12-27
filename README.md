@@ -13,7 +13,8 @@ This is a simple QR Code Generator built using HTML, CSS, and JavaScript. It all
 
 You can view the live demo of the project by clicking the link below:
 
-[Live Demo](https://your-live-demo-link.com)  <!-- Replace with your actual live demo URL -->
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://shalbashaikh16.github.io/QrGenerator/)
+ <!-- Replace with your actual live demo URL -->
 
 ## Screenshot
 
